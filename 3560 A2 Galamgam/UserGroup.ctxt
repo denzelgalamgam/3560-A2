@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=UserGroup
+comment0.text=\r\n\r\n\ @author\ Denzel\ Galamgam\r\n
+comment1.params=id
+comment1.target=UserGroup(java.lang.String)
+comment2.params=um
+comment2.target=void\ add(UserManager)
+comment3.params=
+comment3.target=java.util.ArrayList\ getMembers()
+comment4.params=uid
+comment4.target=boolean\ exists(java.lang.String)
+comment5.params=s
+comment5.target=UserGroup\ findGroup(java.lang.String)
+comment6.params=v
+comment6.target=void\ accept(InfoVisitor)
+numComments=7
